@@ -1,0 +1,453 @@
+请帮我把这些英语学习相关的文本整理成详细的中文笔记，如果笔记出现了相关知识点例句，每个例句都需要整理到笔记里： 
+
+大家好
+欢迎回来
+今天我们进行到课本的第82课
+是妖还是鱼
+这篇课文的篇幅跟上一节课差不多
+但是上一篇课文呢有13句话
+这篇只有十句
+因为上一篇是讲故事
+是个惊险片
+节奏就比较快
+句子短
+这篇呢是个百科性质的文章
+是个纪录片
+那讲述节奏就不一样
+句子就比较长
+那这个区别呢我们写作文的时候也需要考虑到
+比如写故事的时候
+就不要像写论文一样用大量的复句从句
+应该把句子适当的拆分或者压缩
+保证叙述节奏明快
+那这篇百科文的句子具体是怎么样的呢
+以及还有哪些新鲜的干货和复习的重点呢
+我们下面就详细的看
+首先第一句
+Fisherman and sailors
+Sometimes claim to have seen monsters in the sea
+渔夫和水手们有时声称自己看到过海里的妖怪
+这个claim在课本的第58课我们学到过
+当时也重点讲了
+他理解claim的核心是主张两个字
+要么是主张某件事是真的是事实
+要么是主张权益
+主张所有权
+那这句话显然是
+前者主张看到过海怪这件事是事实
+所以翻译成声称宣称
+后面这个to加完成时的形式呢
+经常会跟在像claim
+还有seem
+看起来be said
+据说等词的后面用来呈现已经发生过的事情
+比如这个sim常见的例子
+Whoops
+Oh i seem to have dropped my fork
+不过不是说只有这些词后面才这样用
+用to加完成时
+只是词句搭配跟时态的需要
+比如下面这个例句
+What would you like tubin
+What would you like tubin everything
+You hate
+这两句是经典的台词
+出自公民凯恩对话的背景是功成名就的大亨
+凯恩在跟把自己带大的监护人撒切尔对话
+凯恩说
+如果没有成为富豪
+那我有可能成为一个真正的伟大的人
+撒切尔不明白这个伟大的人死了个伟大法
+或者说不明白凯文真正想成为什么样的人
+于是就问了这句
+这句话就是what would you like to do
+或者what would you like to be的格式
+只不过呢这个to be是假设过去的事
+所以就变成了to have been
+这个句子翻译成汉语以后
+时态的信息就已经丢失了
+在汉语里面呢
+我们都是要靠上下文来补充时间的理解
+但英语不是这样
+英语它要求句子本身就自带时空的标记
+那么对我们汉语母语者来说呢
+这就是个难点
+包括前面那个seem to have dropped
+和课文的claim to have seen
+都是我们容易忘记忽略的地方
+所以这三个例子呢我们都应该背下来
+这样自己说和写的时候就能自然的反应
+而不只是看到了能懂
+然后课文接下来第二句就是大长句子了
+那看句子之前呢
+我们还是参考上一课的那个方法
+我们先看中文
+不过这次呢不是看完整的中文
+而是把中文的几块信息拆开来分别罗列
+然后我们看应该用什么逻辑来组合他们
+最后再看英文原文是怎么组合的
+这个第二句的中文版里面包含这几块信息
+第一块
+海员们经常会讲述类似海妖这种离谱的故事
+第二块
+人们对于这种故事常常付诸一笑
+第三块
+有时候海员们的确会看见一些妖怪
+第四块
+现在人们已经知道
+这些妖怪不过是一些奇怪的鱼
+那我们初看一下就能感觉到
+按逻辑组合的话
+那应该组成至少两句话
+一和二组成一句
+三和四组成一句
+如果要把它们都放在一起
+组成一个sentence
+似乎不太容易
+因为动词好多
+但是课本做到了
+而且很顺畅
+我们来看看
+Though people have often left at stories told by simon
+It is now known that many of these monsters
+Which have at times been decided are simply strange fish
+那我们可以看到第一块信息没有用海员讲故事
+而是变成了海员讲的故事
+成了个词组动词
+tell变成了分词
+做了故事的后置定语
+这样前两块信息就合成了一个单据
+作为整个并列复句的前半部分
+然后后半部分更复杂一些
+主体就是我们刚才列的第四块信息
+现在人们已经知道这些妖怪只是一些奇怪的鱼
+而第三块信息
+有时候海员们的确会看见一些妖怪
+被当做了妖怪的定语
+定语从句
+那既然修饰妖怪
+妖怪打头
+那后面的看见就得是被看见了
+所以是be si
+同时这个结构精巧顺畅的句子呢
+也综合复习了很多我们之前学过的重点
+比如定语从句
+还有完成时
+还有词汇
+这个site咱们曾经重点讲过它的名词用法
+这里是他做动词用的用法
+用来指比较意外的看到某人某物
+当然复习最多的重点还是被动语态
+这一句话里面有三处被动语态
+包括这个分词透的也算是省略版的被动结构
+然后这个told跟site的被动
+主要是句子结构自然带来的
+而it is now known
+这是作者有意选择使用的
+他没有说we now know或者people now know
+而是用这个被动态
+因为无意义和people不重要事才是重点
+同样也会显得更客观更专业
+然后这个开头的though也可以用although
+都是
+虽然尽管这个SIMON海员跟前面的sailor
+基本上是一回事
+要注意它的单数也读作SEAN
+不能读作SEMAN
+呃
+这个咱们曾经多次讲过
+单词的重音不在man上面
+那么man的元音呢往往就会弱化成SA音
+英语里面有无数的单词都是有这样的规律的
+还有这个at times
+接下来一句里面还有occasionally和rarely
+都是集中学习一些表达事情发生频率的副词
+at times跟occasionally意思是一样的
+都是偶尔的
+如果我们按发生频率粗略的排个序的话
+就是always大于often
+大于sometimes
+大于at times和occasionally
+最后大于rarely
+还有其他的词太多了
+我们就不展开了
+最后这个simply也值得说两句
+因为它属于我们一看就懂
+自己不容易想起来用的次
+当我们要说什么什么
+只是不过是什么什么
+很多时候我们都只想到just
+那其实也可以试一试
+这个simply表达效果可能会更强
+我们补充两个用simply的经典台词
+大家多记几个这样的好句子
+以后就更容易想起来用它
+But a wise man once said that you should never believe a thing
+Simply
+Because you want to believe it
+He said that mozart bitter and chopin never die
+They simply became music
+好接下来occasionally
+Unusual creatures are washed to the shore
+But they are rarely
+Caught out at sea
+一些异常的生物偶尔会被冲到岸上来
+但他们在海上却极少能被捕到
+occasionally和rarely
+刚才我们说到了这个creature
+一般词典都会翻译成生物动物
+包括很多英文诗也会说是指能移动的生物
+包括有些情形下也用来指人
+但在有些文学作品里面呢
+我们也会碰到作者用来指没有生命的东西
+这个时候可能会翻译成产物
+这主要还是因为呢在字面上
+它的前半部分是create创造
+所以这个creature从文化层面来理解它
+它就是造物主所造的物
+所以它其实是可以包括一切的
+当然这可能算是比较高级的用法
+我们可以先不这样用
+它只记住它是指动物就行了
+通常指那种不明种类的不明身份的
+或者是想象中的动物
+然后这个b wash to the shore被冲到岸上来
+wash这个用法算是约定俗成了
+它不是洗
+而是冲这个场景
+在犯罪和冒险题材的文学作品
+影视作品里面应该是比较常见了
+这个out在这里面是副词
+后面还有一处也是这样的out
+它的作用是带来更强的画面感
+这里面没有这个out完全也没问题
+但是有了它就有了更强的
+远在大海里面的那种感觉
+接下来some time ago
+However
+A small fishing boat was carried miles out to sea by the powerful fish
+As it pulled down the line
+然而不久前在马达加斯加附近的海里
+却捕到了一条奇怪的鱼
+一条小渔船被一条咬住钩的强壮的大鱼
+拖到了几英里以外的海面上
+不寻常的
+以及再前一句的那个strange
+感觉会有微妙的不同
+会带有一点点令人好奇
+引人入胜之类的内涵
+而另外两个词呢就没有太强的这种意思
+strange甚至有时候还会带点贬义
+总的来说呢
+相比之下呢
+unusual和strange就更中性一些
+然后这个carry的用法也很值得我们学习
+因为不管是中文的大鱼托这个小渔船
+还是这个画面本身
+我们可能都更容易想到用拖牵引这样的词
+比如drag draw
+还有这句话本身后面的PAUL这些词
+咱们在前面课文里面也都学到过
+但这里面呢作者用了carry
+因为他要表现的动作准确说不是托和牵引
+而是携带
+就像火车carry货物
+蜜蜂carry花粉
+那大鱼呢也是把小船带进了大海深处了
+然后这个out刚才说过了
+这个to sea
+注意它没有冠词
+不是to the sea
+不像前面那个be washed to the shore
+这是因为to c呢已经是一个固定词组了
+也是一个词了
+意思是去海里往海里
+前面那个XG也是这样的
+在海上是一个词组
+虽然实际上也会经常碰到带冠词的表达
+To the sea
+就像to the shore一样
+那这句话呢还是不带冠词的
+to c更合适
+一个船已经在海里了
+不是从陆地到海上的动作
+而是进一步被拖向远海
+所以out to see就更合理
+也更自然好
+下一句
+Realizing that this was no ordinary fish
+The fisherman made every effort not to damage
+It in any way
+那位渔民意识到这根本不是一条普通的鱼
+于是千方百计不让他受到丝毫伤害
+首先开头呢又是我上节课说的
+作者最喜欢用的手法
+分词前置作状语
+这个分词还带着从句
+This was no
+Ordinary fish
+这个NO当然也可以用not
+用NO的效果呢是加重强调
+你可以理解为它的意思相当于not at all
+比如当我们要表达绝非什么什么的时候
+You're saying his accidents of somehow
+Connected these are no accidents their links in the chain
+这个NO的用法呢通常是像这样
+在系动词be的后面
+再比如有个常见的表达
+说某人is NO stranger
+就是说他对某事或者某人并不陌生
+而是相当熟悉
+You're no stranger to criminal law
+I'm no stranger to scary situations
+I deal with them all the time
+然后后半句这个make every effort
+在前几集我已经讲到过了
+戒烟的那个课文
+Make no effort
+它的反义词就是make every effort
+尽一切努力
+最后这个not to damage在不定式前面加上否定
+是课文里面第一次出现
+相信有同学会问这个not能不能加在to后面呢
+To not damage
+但就这句来说呢
+这样加是有点别扭的
+不符合习惯
+更不符合传统的语法规则
+所谓的不定式不能拆分
+不过现实中还是有NT加在to后面的
+我们来看两个例子
+I think that you should slow things down
+I want you to not see her for a
+While no
+I'm really starting to not like you
+I'm really starting to not like you
+在这两个例子里面呢
+感觉not放在to后面就更自然更顺利一些
+不过还是要提醒大家呢
+写作文考试最好还是遵守规则
+把not放在to的前面
+这里面我们看不同的例子呢
+只是想让大家从更多的角度
+了解母语表达的真实样子
+大家自己心里有数就好
+不必跟考官较劲
+接下来when it was eventually brought to shore
+It was found to be over thirteen feet
+Long it had a head like a horse
+Big blue eyes
+Shining silver skin and bright red tail
+这个too short又是一个不带冠词的固定短语了
+那么我们跟那个带冠词的对比一下
+就是那个unusual creatures are washed to the shore
+这个能不能去掉冠词呢
+不太合适
+因为这个wash to the shore呢是鱼被冲到岸边
+而不是上岸了
+后面那个鱼才是too short
+它不仅仅是碰到岸边了
+而是登陆了
+被送到实验室去了
+另外这句话的两个被动态呢
+作用是始终保持鱼做主角做主语
+如果换我们写呢
+有可能就变成渔民变主语了
+they found it was over thirteen feet long也不错
+不过就像我前面说的呢
+我们有必要多用被动态体会他们的微妙的不同
+最后两句揭开谜底
+The fish which has since been sent to a museum
+Where it is being examined by a
+Scientist is called an orfish
+Such creatures have rarely been seen alive by men
+As they live at the depth of six
+Hundred feet
+这句首先是复习定语从句了
+带逗号的显然是非限定性的
+插入补充的信息
+鱼被送到了博物馆
+现正接受一位科学家的检查
+如果去掉这个补充信息
+句子就是the fish is called the north fish
+课本的中文就是这样翻译的
+先把主句翻译出来
+然后把这个非限定性定语从句单独拎出来
+放在后面
+前面有一节我们讲过对应英语的长难句
+有两种译法
+对中文读者比较友好的
+就是这种拆开来按中文习惯呈现
+包括这个定语从句
+从内部又嵌套了一层定语从句
+也没有按英文的逻辑翻译
+而是拆成了前后两个分句
+那我们再想想英文可不可以这样呢
+我们试试
+The fish is called on or fish
+It has since been sent with museum
+And is being examined by scientists there
+样子有没有觉得眼熟
+因为这其实就是咱们学的这本书的前半部分
+那些课文的样子
+那为什么到后来就变成这样了呢
+因为后来高级了嘛
+高级就得整点花活
+两句话
+甚至三句话拼成一句并列的
+连续的变成嵌套的
+然后就显得高级了
+讲究了
+有文采了
+那当然更多的时候呢
+这种变化并不是为了高级而高级
+比如前面第二句那个大长句子
+咱们开头列出的那四块信息
+如果用四个或者三个单独的英文句子来呈现
+就会发现比较难看
+啰嗦DU缺乏美感
+包括后面这句也是还是高级版的
+看起来更像样
+所以我们以后写作文的时候呢
+如果先想到的是这个呃低简单低幼的版本
+就有必要考虑到要不要升级一下
+变得有文采些
+动用我们在课本后半部学到的这些招数
+比如定语从句啊
+从句套从句呀
+前置的分词状语
+还有这些主动变被动或者主被动的切换啊等等
+在我的自媒体留言区里面
+经常会有人问某个单词
+某个短语适合口语还是适合书面
+或者书面能不能用
+其实从整体的使用概率来看呢
+大部分词汇都是书面口语通用的
+或者说没有太明显的界限
+书面和口语的区别呢更多不是因为用词的不同
+而是句子构造不同
+与其花心思记忆哪些词口语
+哪些词
+书面
+还不如把宝贵的精力放在练习句子的构造上面
+另外需要说明的是呢
+呃前面说的这些都是指写作文
+书面语口语的话
+你会发现什么日常说话
+其实更多还是我后来改的这种简单的版本
+OK这里说到这
+后面最后一句也没有什么特别需要说的
+这些固定的表达就记住就好了
+这节课说的比较多
+有些地方有点啰嗦
+希望大家都能看完吧
+另外就是我前两天发过的一条动态
+看到的同学不多
+我这里再说一下
+等把课本上的课文都讲完以后呢
+这个语感升级课也不会停
+更后续我还会不定期的在做一些加餐课
+主题课之类的内容放进去
+尽量的继续补充丰富好
+那今天就到这
+我们下节课再见
