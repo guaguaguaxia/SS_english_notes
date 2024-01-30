@@ -1,343 +1,51 @@
-请帮我把这些英语学习相关的文本整理成详细的中文笔记，如果笔记出现了相关知识点例句，每个例句都需要整理到笔记里： 
+这段文本是一节英语课的讲解，主要围绕动名词（-ing 形式）的使用进行了详细讲解。以下是对这段文本的中文笔记整理：
 
-大家好
-今天我们进入课本的第68课
-persistent纠缠不休
-这是一篇有重点的课文
-重点是各种ING
-尤其是作为动名词的动名词
-不是第一次作为重点出现了
-咱们也讲到过很多次
-不过这篇课文仍然有它新的吸收角度
-可以给我们启发
-而且故事也很生动有趣
-我们就一起看一下课文
-一边看一边说
-I crushed the street to avoid meeting him
-But he saw me and came running towards me
-It was no use pretending that
-I had not seen him
-So i waved to him
-我穿过马路以便避开他
-但他看到我并朝我跑过来
-再装作没看见他已经没有用了
-我只好向他招手
-在上一节课的开头第一句里面说
-他一生致力于火山研究
-Spent his lifetime studying volcanoes
-跟这节课的第一句是一样的结构
-刚讲完不久
-大家应该还记得spent加时间
-再加ING分词
-这是英语表现
-同时进行的两个动作的最常用的方式
-这节课的开头两句有三个ING
-里面有一个也是这样的
-是哪个呢
-很明显就是第二个come和run是并行的两个动作
-其中come来run是来的方式
-跑着来的
-说到这
-我们就说说英语的一个基本的禁忌
-就是两个动作
-或者说两个谓语动词是不能连着用的
-这个近距的来源我没有考证过
-但是想想也不难理解
-因为连着用可能会产生歧义
-比方说我们学说英语
-We learn to speak english
-为什么不能说we learn speak english呢
-这在中文逻辑里面看是没有问题的
-对不对
-但老外不是这样感觉的
-因为learn和speak
-不仅有learn to speak的逻辑
-也有learn and speak的逻辑
-后者就不一定是学英语了
-而是两个分开的动作
-一个是学
-一个是说英语
-他有可能也是学英语
-但也有可能不是这个逻辑
-听起来有点像抬杠
-但是英语就是这样的
-它不像咱们汉语那么灵活
-靠上下文语义分析来理解
-那不管它合理不合理
-既然他有这个境界
-我们就把它记住
-因为它非常重要
-非常基础
-后面很多东西都是因为他才出现的
-就包括我们今天的重点
-ING说避免见他
-Avoid need him
-两个动词连着了
-触犯了禁忌
-那第二个动词就得换个样子
-而avoid避免避免某事
-某事呢是名词性的地方
-所以meat换成动名词meeting
-那么也许有人会问
-meat换样子可不可以换成to meet
-avoid to meet him行不行呢
-像learn to speak english那样
-这是个非常好的思考角度
-我们来仔细分析一下
-刚才说了两个动词相连
-那后边那个变形不止可以加ING换成不定式
-也可以
-如果有同意的名词换成同义的名词也可以
-比如假设是避免出席avoid attend
-那么可以是avoid attending
-也可以是avoid attendance
-那么avoid to meet
-Avoid two ten
-这个就不太行了
-为什么呢
-我们先不讲大道理
-我们看另一个对比
-一个大家更熟悉的对比
-i stopped to buy water和i stopped buying water
-相信很多同学都学过或者刷视频都刷到过
-这个前者是我停下来买水
-后者是我停止买水
-不再买水了
-按这个逻辑呢
-我们换成avoid说
-avoid meeting him跟stop buying water是一样的逻辑
-停止买水的动作和避免践踏的动作
-那同理说
-avoid to meet him跟stop to buy water也应该是一样的
-逻辑
-先停下来
-然后再买水
-先避免
-然后再见他
-这就不太成立了
-违背了作者的原意了
-或者说至少是意识模糊了
-因为avoid他词义比较特别避免
-意味着他后面的动作不发声了
-不像speak english by water
-所以呢avoid一般就不接to do
-而只接doing
-因为有逻辑漏洞
-然后第二句的pretending也是个名词性的
-而不是动词性
-也就是动名词
-而不是分词
-因为它是句子的主语
-逻辑主语pretending that i had not seen him was NO use
-那作为主谓语呢
-当然必须是名词了
-头两句里面除了G其他的词
-像avoid
-No use pretend
-都是日常必会的
-原来不熟悉的同学可以留心背下来
-我们接着看下一段
-I never enjoy meeting
-Nor dikes
-He never has anything to
-Do no matter
-How busy you are
-He always insists on coming with you
-我就怕遇到奈杰尔戴克斯
-他从来都无事可做
-不管你多忙
-他总是坚持要跟你去这个enjoy meeting
-Insist on coming
-显然也都是动名词
-尤其是insist on
-因为有介词
-介词后面是只能接名词性内容的
-关于insist本身呢
-咱们后面再单独讲
-这里先不说它这个NO matter how的用法
-要记得后面是you are
-不是are you啊
-因为它只是一个从句
-不是主句
-接下来i had to think of a way of preventing him from
-Following me
-Around all morning
-我得想办法不让他整个上午缠着我
-同样两个都是介词
-后面的动词都得换成名词的形式
-think of前面我们讲过
-想到他跟think about的区别
-也就是of跟about的区别
-这个是我们专门讲过的一个知识点
-这个句子很短
-却包含了两组介词加动名词的组合
-所以是一个背诵价值很高的句子
-接下来是两个人的对话
-Hello
-Neihi
-Said fancy meeting you here
-你好
-奈杰尔
-想不到在这儿见到你
-这个fancy meeting you here
-是个带点古风的问候语
-fancy在这里也是动词
-所以后面的动词meet也变成了动名词
-说他古风是因为现在日常更多还是用imagine了
-fancy的意思跟imagine是一样的
-想象说fancy某事就是想想看这事儿多么意外
-多么特别
-多么难以想象
-fancy的这种用法搭配
-除了这个问候语
-还有一个更短的rachel fancy that
-Yeah
-Bruce fancy that
-Rachel nat fancy that
-就是fancy
-当前这件事想想看竟然在这里见到你
-难以想象
-Hi elizabeth
-How to spend the morning
-Until i saw you
-You're not busy doing anything
-Are you
-你好
-伊丽莎白奈杰尔回答说
-我正不知道怎么消磨这一上午呢
-正好见到你
-你不忙吧
-这里边第一个ING是过去进行时
-第二个是动名词
-Be busy doing
-同样也是两个动词相连的逻辑
-虽然有个busy
-但实际be busy是一体的
-所以do也不能用圆形
-它的道理跟火山科学家spent his life studying是一样的
-另外注意直接引语里面的时态
-这里他用的是过去时
-也说的是此刻之前发生的动作
-如果我们要说这句话
-同样也要注意这个时态
-不要说成i'm wondering
-要说i was wondering
-然后剩下的对话
-No not at all i answered
-I'm going to
-Would you mind
-My coming with you
-He asked before i finished
-Speaking not at all i liked
-But i'm going to the dentist
-Then i'll come with you
-He answered
-There's always plenty to read in the waiting room
-这个mind my coming也是个值得注意的地方
-这个礼貌剧呢可以用my也可以用me
-If you don't mind
-My saying
-So ma'am they were the best years of my life
-When did you die
-If you don't mind
-My asking you six years ago
-You don't mind me touching your belly
-Do you no
-I don't mind
-You touching my belly
-but这两种情况的ING逻辑有细微差别
-不过不是要紧的问题
-我们就不细究了
-总之呢记得用ING的时候
-要带上这个my或者me
-如果不带麦或者me就变成另一个意思了
-Would you mind switching with your edison
-Would you mind switching with me
-Would you mind getting my glass
-所以没有了mind me就变成对方做事了
-这个是我们说这句话的时候要注意的
-然后就是这里的finished speaking
-是课文里面最后一个案例
-两个动词第二个变成名词
-结束了
-说话说话就要用名词形式
-就在沙袋提一句
-关于两个动词不能接连在一起
-可能大家会遇见例外
-Come get it go finder
-这个我以前的视频里面讲过
-实际上是中间省略了
-and相信很多同学看过视频
-我就不重复了
-最后再说两个词
-就是标题persistent和正文里面的insist
-这俩词以及它们的同根词
-是英语里面极其高频的常用词家族
-所以我们单独说一说
-以前不熟悉的同学可以学一波
-persistent是形容词
-它的动词就是去掉ENT结尾的persist
-坚持insist也是动词
-坚持它同样也有一个形容词insistent
-另外呢它们也都有名词
-persistence和insistence
-它每个都高频常用
-但我们不一定要都背下来
-只需要把两个动词理解到位就够了
-像这种词呢
-这个动词我们熟悉
-即便没有学过形容词
-名词
-第一次见到他们也可以秒懂
-那这两个动词两个坚持的区别也很明确
-persist的坚持是坚持做某件事
-insist的坚持是坚持某个立场
-某个主张
-Why mr anderson
-Why why do you persist
-You really want me to shake your hand
-I insist
-If you insist
-从例句看更明显
-persist坚持的事情是你已经在做了的
-insist坚持要做的事是还没做的
-另外在实际使用中呢
-我们会发现它的动词形容词格调空间更大
-雅俗都能用
-而一到了名词呢
-也就是persistence和insistence
-气氛就会变得更正式或者更书面一些
-我们来加两个例句
-感受一下这种现象
-Change begins with persistence and commitment
-I would have come myself not for our insistence
-But she wanted to see him
-好了
-今天的重点就是这些
-其中动名词的内容呢看上去有些散
-我是特意的没有按分门别类的做整理
-因为我觉得总结成一条一条那样的
-反倒容易把大家带回到背公式的老路上去
-这个老路最大的问题就是
-每次当你把公式和整套的规则背下来的时候
-也是一个错觉形成的时候
-这个错觉就是以为自己已经学会了
-于是自然也就不会花更多的精力和注意力
-去积累例句
-去比较语境的差异
-这可以说是最被人们忽略的一个学英语的陷阱
-因为他太有迷惑性和欺骗性了
-想想看有多少同学花个功夫背不定式
-动名词的规则
-还有包括其他方面的公式规则
-他们遇到考试感觉也许还行
-因为大部分都是选择题
-但一旦自己写作文
-自己造句子
-就立刻暴露出大量的问题
-所以我们还是多把知识点
-融入到语言的逻辑里面
-体会他在鲜活的语言中的存在感
-有活的理解才能掌握活的语言
-好了今天我们就到这儿
-下节课再见
+### 课程概述
+- **课程主题**: 第68课，重点讲解动名词的用法。
+- **课文特点**: 生动有趣，提供新的学习角度。
+
+### 动名词重点讲解
+1. **动名词作主语**:
+   - 例句: "I crushed the street to avoid meeting him."（我穿过马路以避开他。）
+   - 分析: "meeting" 作为动名词，表达避免的行为。
+
+2. **动名词表示同时进行的动作**:
+   - 例句: "Spent his lifetime studying volcanoes."（他一生致力于火山研究。）
+   - 分析: "studying" 与 "spent" 同时进行，用动名词表达。
+
+3. **动词不能连续使用**:
+   - 解释: 两个动词连用可能产生歧义。
+   - 例句: "We learn to speak English."（我们学习说英语。）
+   - 分析: 不能使用 "learn speak"，因为可能产生误解。
+
+4. **动名词用于避免动词直接连用**:
+   - 例句: "Avoid meeting him."（避免见他。）
+   - 分析: 使用动名词 "meeting" 代替直接动词，避免两个动词直接连用。
+
+5. **动名词与介词搭配**:
+   - 例句: "I never enjoy meeting Nor Dikes."（我就怕遇到诺尔·戴克斯。）
+   - 分析: "meeting" 作为动名词，与 "enjoy" 搭配使用。
+
+6. **动名词作宾语**:
+   - 例句: "I had to think of a way of preventing him from following me."（我得想办法不让他跟着我。）
+   - 分析: "preventing" 和 "following" 都作为动名词，用于表达被动动作。
+
+7. **动名词用于礼貌表达**:
+   - 例句: "Would you mind my coming with you?"（你介意我跟你一起去吗？）
+   - 分析: 使用 "my coming" 表达请求的礼貌方式。
+
+### 关于 "persistent" 和 "insist"
+- **persistent (形容词)**: 坚持不懈，其动词形式为 "persist"。
+- **insist (动词)**: 坚持，其形容词形式为 "insistent"。
+- **例句**: 
+   - "Why do you persist?"（你为什么坚持？）
+   - "I insist."（我坚持。）
+
+### 学习建议
+- 强调理解动名词在语境中的运用，而不仅仅是死记硬背公式。
+- 提倡将语法点融入实际语言使用中，以活学活用的方式掌握英语。
+
+### 结语
+- 下节课将继续讲解相关内容。
+
+这些笔记涵盖了课程的主要内容和重点，适合用于复习和加深对动名词用法的理解。
