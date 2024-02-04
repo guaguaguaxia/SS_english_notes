@@ -61,8 +61,8 @@ def rename_txt_to_md(folder_path):
 if __name__ == '__main__':
     # convert_md_encoding_to_utf8("C:\\Users\\guaguaguaxia\\Desktop\\notes\\feel")
     # 使用示例
-    directory = 'C:\\Users\\guaguaguaxia\\Desktop\\notes\\feel'  # 替换为您的目录路径
+    directory = 'D:\\PythonProject\\SS_english_notes\\notes\\desperate housewife'  # 替换为您的目录路径
     text = '请帮我把这些英语学习相关的文本整理成详细的中文笔记，如果笔记出现了相关知识点例句，每个例句都需要整理到笔记里： \n'
-    # add_text_to_files(directory, text)
+    add_text_to_files(directory, text)
 
-    convert_md_encoding_to_utf8("D:\\PythonProject\\SS_english_notes\\notes\\New Concept English")
+    # convert_md_encoding_to_utf8("D:\\PythonProject\\SS_english_notes\\notes\\New Concept English")
